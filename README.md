@@ -25,13 +25,22 @@ The app and installer are Developer ID signed and notarized by Apple. Each relea
 
 - Full desktop chat and a compact companion attached to the screen edge.
 - A draggable Alice launcher, monochrome menu-bar logo, and Dock icon.
-- Configurable shortcuts for opening the companion and starting voice conversations.
-- Voice activation by pressing a shortcut or holding it down.
+- Configurable shortcuts for opening the companion, voice conversations, and message dictation.
+- Press-to-toggle voice conversations and optional toggle or hold-to-dictate shortcuts.
 - Translation, summaries, spelling correction, rewriting, question answering, shorter text, and longer text.
-- Optional selection and screenshot capture, with a preview before sending.
+- Region screenshots attach directly to the current chat draft. Sending remains explicit; failed attachments can be retried or saved.
 - Website-owned Alice modes, files, history, and account access.
 
-The default companion shortcut is **Option–Space**. The default voice shortcut is **Control–Option–Space**. Change them in Settings.
+The default companion shortcut is **Option–Space**. The default conversation shortcut is **Control–Option–Space**. Dictation starts disabled; enable it and assign an independent shortcut in Settings. Releasing a held dictation shortcut stops recognition and leaves the text in the draft for you to send. Switching between voice actions stops the previous action first.
+
+You can also assign a standalone **Command**, **Option**, **Control**, or **Shift** key.
+Click the shortcut field, then press and release the modifier; left and right keys
+are assigned separately. A standalone tap takes effect on release. Hold-to-dictate
+starts after a short delay; another key or mouse click cancels the gesture.
+Standalone global modifiers require **Privacy & Security → Input Monitoring**
+permission for Alice Companion. Settings opens that pane alongside a guide with
+a draggable app icon and a Finder shortcut for adding the running app.
+Regular shortcuts such as Option–Space do not need this permission.
 
 ## Updates
 
@@ -43,7 +52,7 @@ Both the update feed and installers use cryptographic signatures. Install the ap
 
 Alice Companion loads the Alice website directly. It does not send conversations through a separate companion server. Yandex handles your account and AI requests under its own terms and privacy policy.
 
-Microphone and camera access require macOS permission. Selection capture may require Accessibility permission; screenshot capture may require Screen Recording permission. These features are optional.
+Microphone and camera access require macOS permission. Screenshots require Screen Recording permission. These features are optional; the app provides permission status and recovery guidance. If Screen Recording is denied, a floating guide helps add the running app to System Settings. Granting permission does not automatically take a screenshot.
 
 Text tools add an instruction to the message sent to Alice. The companion displays the original text and a tool badge, but the complete instruction can remain visible in other clients or shared conversations.
 

@@ -1,8 +1,31 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Alice Companion</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Sat, 10 Oct 2026 21:16:02 +0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Alice Companion 0.1.1</h2>
+<ul>
+<li>Added independent shortcuts for voice conversation and message dictation. Conversation uses press-to-toggle; optional dictation supports toggle or hold-to-dictate, leaving recognized text in the draft for you to send.</li>
+<li>Assign a standalone left or right Command, Option, Control, or Shift key by pressing and releasing it. Regular keyboard combinations remain available, and conflicting shortcuts are flagged in Settings.</li>
+<li>Standalone modifier taps take effect on release. Hold-to-dictate starts after a short delay; another key, a mouse click, interrupted key events, or sleep cancels the gesture.</li>
+<li>Redesigned Settings inside the desktop window, with separate voice controls and a return-to-chat action that preserves the conversation and draft.</li>
+<li>Added macOS permission guides for the microphone, Input Monitoring, and Screen Recording. The latter two include a draggable app icon and a Finder shortcut to help add the running app to System Settings.</li>
+<li>Moved microphone capture into the native app to address voice crackling, while preserving the website&#x27;s voice controls and macOS permission checks.</li>
+<li>Added direct Reload and Screenshot to chat toolbar actions. Region screenshots attach to the current draft without sending it; failed attachments remain available for retry or saving.</li>
+<li>Refined the compact chat layout, typography, history navigation, file-drop overlay, and window toolbar.</li>
+<li>Fixed returning an expanded companion chat to the sidebar and toggling it from the main window.</li>
+</ul>
+<p>Alice Companion is an unofficial client and is not affiliated with Yandex. Chat and voice features depend on the availability of the Alice AI service.</p>]]></description>
+            <enclosure url="https://github.com/makeaiwork/alice-companion-releases/releases/download/v0.1.1/Alice-Companion-0.1.1.dmg" length="3404456" type="application/octet-stream" sparkle:edSignature="j1mOBS5ZNlu4TjbIY/Yv2mJ4/gYO7Up9NOdKm+ti0CWgQ1rfEWgTyCVVM/NPEeRFS1D/4vfhapvkq0uc/z/JAA=="/>
+        </item>
         <item>
             <title>0.1.0</title>
             <pubDate>Fri, 09 Oct 2026 21:40:54 +0300</pubDate>
@@ -19,10 +42,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <li>Check for signed updates from the app menu or Settings, with automatic checks at launch and every six hours when enabled.</li>
 </ul>
 <p>Alice Companion is an unofficial client and is not affiliated with Yandex. Chat and voice features depend on the availability of the Alice AI service.</p>]]></description>
-            <enclosure url="https://github.com/makeaiwork/alice-companion-releases/releases/download/v0.1.0/Alice-Companion-0.1.0.dmg" length="2901535" type="application/octet-stream" sparkle:edSignature="/Tph0TgwiRoF7Tsi+ZWgsyEi1ePcy/pfnqEDXBci/4VOPt/1mx8dEQy8JqemaaFrQvbUMeBA74VGGcg9ixwYAw=="></enclosure>
+            <enclosure url="https://github.com/makeaiwork/alice-companion-releases/releases/download/v0.1.0/Alice-Companion-0.1.0.dmg" length="2901535" type="application/octet-stream" sparkle:edSignature="/Tph0TgwiRoF7Tsi+ZWgsyEi1ePcy/pfnqEDXBci/4VOPt/1mx8dEQy8JqemaaFrQvbUMeBA74VGGcg9ixwYAw=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: +6oQQgqVh9yV+QZHNy2q8Waq8cdLfg+LNGVm2NFZzRjcwecLDCx+XXEJ6uPLfSaYkYkD3EYYbFQLYVRismwGBA==
-length: 1936
+</rss>
+<!-- sparkle-signatures:
+edSignature: RU9GC+B5UttMojZafVLrjgAPwVYkVI3QDGRCLGREiY2beHODx2XCgMd/+mv0JmD6fTulxiBn9FHSxzdLSVzVBQ==
+length: 4369
 -->
