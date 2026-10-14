@@ -6,6 +6,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Alice Companion</title>
         <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 15 Oct 2026 00:01:41 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>AliceMate 1.0.0</h2>
+<p>Meet AliceMate 1.0.0. What began as Alice Companion has been rebuilt from the inside out: a new name, a fresh look, and a whole new way to use Alice across your Mac. This is our biggest update yet, and the first one we&#x27;re proud to call version 1.</p>
+<ul>
+<li>Alice now works in every app. Select any text and the new menu lets Alice explain, summarize, translate, or correct it.</li>
+<li>Create your own prompts and choose which ones appear on the panel or in the ⋯ menu.</li>
+<li>Tap the right Command key to talk to Alice. Your own shortcuts stay as they are.</li>
+<li>When AliceMate is out of sight, voice starts in a new chat. A chat on screen continues.</li>
+<li>The new screenshot button attaches a screen region to your draft.</li>
+<li>Settings are redesigned, with a sidebar and a one-click update check.</li>
+<li>Nothing to set up again: your sign-in, settings, and permissions carry over from Alice Companion.</li>
+<li>Lists in selected-text answers now match chat and paste as lists. The file-drop outline matches the message field, and dropping images into the image editor works again.</li>
+</ul>
+<p>Thank you for being with us from the start. Version 1 is only the beginning.</p>
+<p>AliceMate is an unofficial client and is not affiliated with Yandex. Chat and voice features depend on the availability of the Alice AI service.</p>]]></description>
+            <enclosure url="https://github.com/makeaiwork/alice-companion-releases/releases/download/v1.0.0/AliceMate-1.0.0.dmg" length="11664417" type="application/octet-stream" sparkle:edSignature="wKcf/8Zh0Kwmbs0UG/WH/9PJx4A9gLqUVsmyMRdblpsfOLD5jiXsy+za9ppRtKwdfI996dqNIQ9qQ0/NDPljDw=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Sat, 10 Oct 2026 21:16:02 +0300</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -47,6 +69,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: RU9GC+B5UttMojZafVLrjgAPwVYkVI3QDGRCLGREiY2beHODx2XCgMd/+mv0JmD6fTulxiBn9FHSxzdLSVzVBQ==
-length: 4369
+edSignature: rkb/EXeuZejqoMdnOahFHK1eqO7goLDH0qCB/xd4Xy4CFKb4woiWszsCKBo8qSoGfqyxPK0ScojwcYgt0WKSDQ==
+length: 6423
 -->
