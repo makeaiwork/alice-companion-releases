@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Alice Companion</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 15 Oct 2026 14:16:10 +0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>AliceMate 1.0.1</h2>
+<ul>
+<li>The Alice menu now appears when you select text in Telegram, WhatsApp, Sublime Text and many other apps.</li>
+<li>If the menu doesn&#x27;t appear, select the text and press Option once.</li>
+</ul>
+<p>AliceMate is an unofficial client and is not affiliated with Yandex. Chat and voice features depend on the availability of the Alice AI service.</p>]]></description>
+            <enclosure url="https://github.com/makeaiwork/alice-companion-releases/releases/download/v1.0.1/AliceMate-1.0.1.dmg" length="12424744" type="application/octet-stream" sparkle:edSignature="Egn/FDoees6loV0Jwzg1qmbO3iJuaO41VvtViTTDqpswd9vMXCmGIvmDALFyg9WyuZEY9kXaiZ2WE074/ixLCw=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 15 Oct 2026 00:11:40 +0300</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -69,6 +83,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 5QjPSxKRoz0kTwdve92Ae+BFY9xKP8O6KckLMyo/jLVbwVjAeWw9TzWXuuXJYa0oPKLcTlNuH2MenalosiS+DA==
-length: 6423
+edSignature: U1L17GMd7VRAl2s8AUTVeW3e30kZeU0EaEmJ85QLnE3D+b+Jlj8mYXxL4Ifho4bVKqSTI/fhYiL+iyc692svCg==
+length: 7478
 -->
