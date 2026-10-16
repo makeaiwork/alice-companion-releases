@@ -6,6 +6,36 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Alice Companion</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 16 Oct 2026 16:20:31 +0300</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Новое
+
+- **Светлая и тёмная тема.** В настройках можно выбрать тему: как в macOS, всегда светлую или всегда тёмную.
+- **Замена сразу на месте.** В Telegram, WhatsApp и Sublime Text «Исправить ошибки» и похожие действия сразу заменяют выделенный текст.
+- **Карточку ответа можно подвинуть.** Потяните её за заголовок, чтобы она не закрывала текст.
+- **Подсказки при наведении.** Наведите курсор на кнопку или пункт меню, и появится короткое пояснение.
+- **Значки в меню.** У пунктов меню AliceMate в строке меню появились значки.
+- **Понятно, что пошло не так.** Если текст нельзя заменить, AliceMate объяснит почему.
+
+## Исправлено
+
+- **Magic Mouse не мешает.** Лёгкое касание мыши больше не прерывает замену текста.
+
+[AliceMate]: version:1.1.0
+[Светлая и тёмная тема]: lucide:sun-moon
+[Замена сразу на месте]: lucide:replace
+[Карточку ответа можно подвинуть]: lucide:move
+[Подсказки при наведении]: lucide:message-circle-question-mark
+[Значки в меню]: lucide:square-menu
+[Понятно, что пошло не так]: lucide:info
+[Magic Mouse не мешает]: lucide:mouse
+]]></description>
+            <enclosure url="https://github.com/makeaiwork/alice-companion-releases/releases/download/v1.1.0/AliceMate-1.1.0.dmg" length="12512032" type="application/octet-stream" sparkle:edSignature="vbMmVvbB7CKAuqewJ8mLP703BCeTgHgw1hP5TKC5+1Z/ldWi+TKqoHHx4NZTsXHOBAeapqsmyTsWhFioAcl/Cg=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Thu, 15 Oct 2026 14:16:10 +0300</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -83,6 +113,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: U1L17GMd7VRAl2s8AUTVeW3e30kZeU0EaEmJ85QLnE3D+b+Jlj8mYXxL4Ifho4bVKqSTI/fhYiL+iyc692svCg==
-length: 7478
+edSignature: Tby1hzNvYmqKrwY4x7UrzM3hZj48MsfnC4d40P/WhFMFH+dIQ5WR2N1/2/mDAEmOcYMgNkf6a2iUsQgcmiboCQ==
+length: 9842
 -->
