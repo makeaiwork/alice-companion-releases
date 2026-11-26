@@ -6,6 +6,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Alice Companion</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Fri, 27 Nov 2026 01:03:57 +0300</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Новое
+
+- **Возврат к чату.** Кнопка в верхней панели возвращает в тот же диалог из прогноза на месяц или с другой страницы, открытой в AliceMate.
+
+## Исправлено
+
+- **Погода и другие инструменты.** Если вы попали в экспериментальную группу Яндекса, в которой недоступны прогноз погоды и другие инструменты Алисы, AliceMate может сбросить идентификатор устройства, сохранив вход в аккаунт (ручной сброс доступен в «Настройки → Основное → Возможности Алисы → Сбросить…»).
+- **Мелкие исправления.** Устранили небольшие ошибки в интерфейсе.
+
+[Возврат к чату]: lucide:corner-up-left
+[Погода и другие инструменты]: lucide:cloud-sun
+[Мелкие исправления]: lucide:wrench
+[AliceMate]: version:1.1.2
+]]></description>
+            <enclosure url="https://github.com/makeaiwork/alice-companion-releases/releases/download/v1.1.2/AliceMate-1.1.2.dmg" length="12635635" type="application/octet-stream" sparkle:edSignature="KhZ+ls81dklY8dfrYaXaKEo1wSmLDmfDnYq+vEFxLR35aN/fYzKrTslBJE/IgzrF5XJvzSz8XcHmdllKuKBTDg=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Thu, 26 Nov 2026 22:26:13 +0300</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -137,6 +159,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: z69a9KJrM4omK04i3x3YOZHqj/0o/H57yH2SQNNI9upHr4UNlrLyWc5oEyySk10kYXaVCwHbxI+aMS+gaRREAA==
-length: 11675
+edSignature: ugbNl2tjqqOHCSDqF92mbdHNRdaX4johqcB1XPvffFHtGs4lsnFXDyMz3gtfuC3Mpde56hOrYVRUnihCz2VMBg==
+length: 13532
 -->
