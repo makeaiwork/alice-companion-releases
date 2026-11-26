@@ -6,6 +6,30 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Alice Companion</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Thu, 26 Nov 2026 22:26:13 +0300</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Новое
+
+- **Обновление стартовой страницы.** Пустая стартовая страница, которой ещё не пользовались, обновляется при открытии виджета после 15 минут паузы.
+
+## Исправлено
+
+- **Одно большое окно.** При разворачивании виджета текущий разговор и черновик открываются в основном окне AliceMate.
+- **Прокрутка «Действуй!».** Экран прокручивается в виджете до нижней кнопки.
+- **Корректировки интерфейса.** Подправили всплывающие меню, боковую панель и веб-настройки в виджете.
+
+[Обновление стартовой страницы]: lucide:refresh-cw
+[Одно большое окно]: lucide:app-window
+[Прокрутка «Действуй!»]: lucide:scroll-text
+[Корректировки интерфейса]: lucide:panels-top-left
+[AliceMate]: version:1.1.1
+]]></description>
+            <enclosure url="https://github.com/makeaiwork/alice-companion-releases/releases/download/v1.1.1/AliceMate-1.1.1.dmg" length="12522886" type="application/octet-stream" sparkle:edSignature="odIDXHc1zO23EWz1hwCIMVomvLfgHA7mhqp149W1OjnNLxswKR12QLD0+aXfQOJjDVd8XWCK5QqropEKSqrbDg=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Fri, 16 Oct 2026 16:20:31 +0300</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -113,6 +137,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Tby1hzNvYmqKrwY4x7UrzM3hZj48MsfnC4d40P/WhFMFH+dIQ5WR2N1/2/mDAEmOcYMgNkf6a2iUsQgcmiboCQ==
-length: 9842
+edSignature: z69a9KJrM4omK04i3x3YOZHqj/0o/H57yH2SQNNI9upHr4UNlrLyWc5oEyySk10kYXaVCwHbxI+aMS+gaRREAA==
+length: 11675
 -->
